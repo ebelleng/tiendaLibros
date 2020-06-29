@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tiendaLibros"
+    }
+  },
+  "defaultProject": "tiendaLibros",
+  "cli": {
+    "analytics": "dfe0bb66-1ce1-49f2-8bca-2c8bc48e189d"
+  }
 }
